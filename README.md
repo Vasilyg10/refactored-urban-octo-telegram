@@ -12,8 +12,12 @@ I moved down the list of acceptance criteria and made sure the elements followed
 
 ## Screenshot
 
-![Alt text](/screenshot.png "Refactoring Screenshot")
+![ScreenShot](screenshot.png)
 
 ## Link to Deployed Application
 
 [refactored-urban-octo-telegram](https://vasilyg10.github.io/refactored-urban-octo-telegram/)
+
+## Link to Github Repository
+
+[Github link](https://github.com/Vasilyg10/refactored-urban-octo-telegram) 
