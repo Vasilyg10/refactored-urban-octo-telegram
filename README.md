@@ -12,7 +12,7 @@ I moved down the list of acceptance criteria and made sure the elements followed
 
 ## Screenshot
 
-![ScreenShot](/screenshot/deployed.png)
+<img src="./screenshot.png" />
 
 ## Link to Deployed Application
 
